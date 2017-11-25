@@ -1,0 +1,141 @@
+header{
+	background-image: url(header.jpg);
+	background-size:cover;
+	min-height: 658px;
+}
+.logo{
+	color:white !important;
+	font-weight: bold;
+	margin-top:35px;
+	margin-left: 70px;
+}
+.header_nav{
+	background-color:transparent;
+	border:none; 
+}
+.nav_item{
+	padding-left: 150px;
+	background: transparent;
+}
+.nav_item li{
+	margin:35px 20px;
+}
+.nav_item li a{
+	color:#e1e1e1 !important;
+	font-weight: bold;
+}
+.nav_item li:hover a{
+	color:#e1e1e1 !important;
+}
+.menu ul li a img{
+	padding-left: 10px !important;
+}
+.header_icons
+{margin: 35px 20px;}
+
+.caption{margin-top: 100px;
+	color:white !important;
+	max-width: 300px;}
+.caption h1{
+	color:#dfe6ff;
+   
+}
+.caption p{
+	color: #dfe6ff;
+	padding-bottom: 50px;
+}
+.line_height{
+	line-height: 15px;
+}
+
+.d_button{
+	width:100px;
+	height:40px;
+	background-color: #fc6a42;
+	color:white;
+	font-weight: bold;
+    border: none; 
+}
+.d_button:hover{
+	
+	background-color: #fc6a42;
+	color:white;
+	
+}
+.f_button{
+   width:100px;
+	height:40px;
+	background-color: #4466c9;
+	color:white;
+	font-weight: bold;
+    border: none;
+   }
+
+.f_button:hover{
+	
+	background-color: #4466c9;
+	color:white;
+	
+}
+#features{margin-left: 170px;}
+.feature_text{margin-top: 150px;}
+.feature_text h1{
+	color:#648cff;
+}
+.feature_text p{
+	color:#999999;
+}
+.feature_block h1{
+  color: #353854;
+  font-weight: bold;
+}
+.feature_block p{
+  color: #d9d9d9;
+  font-weight: bold;
+}
+#widget{margin-top: 130px;}
+.widget_bottom{margin-bottom:30px;}
+.style-carousel{
+	opacity: 0.1 !important;
+}
+.screen_image{margin-top: 100px;}
+.screen_text{margin-top: 250px;}
+.screen_text h1{color:#648cff;}
+.screen_text p{color:#353854;}
+#quotations{color:#353854;min-height:750px;}
+#download{
+background-image: url(download_bg.jpg);
+	background-size:cover;
+	min-height: 460px;
+   margin-top:100px;
+}
+.download_content{
+	color: white;margin-top:100px;
+}
+#footer{
+	background-color:#353854;
+	min-height: 215px;
+}
+#footer_bottom{
+	background-color:#353854;
+	min-height: 150px;
+}
+.copyright{
+	color: #474b6f;
+	font-weight: bold;
+}
+#widget{
+	min-height: 930px;
+}
+.border_bottom{
+	padding-bottom:220px;
+	border-bottom: 1px solid #5e6077;
+}
+.copyright{
+	padding-top: 55px;
+	color: #565b87;
+	font-weight: bold;
+}
+.fun{color: #fc6a42;}
+.weather{color:#4466c9;}
+.social_icons{padding-left:10px;margin-top:30px;}
